@@ -1,0 +1,9 @@
+1:-AWAIT-The await operator is used to wait for a Promise and get its fulfillment value. It can only be used inside an async function or a JavaScript module
+
+
+2:-
+"async and await make promises easier to write"
+
+async makes a function return a Promise
+
+await makes a function wait for a Promise
